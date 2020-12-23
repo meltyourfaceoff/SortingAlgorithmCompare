@@ -1,6 +1,6 @@
 SORTING RESULTS
 -----------------
                     Run 1          Run 2          Run 3        Average
-Selection Sort:      1594           2403           1483           1826
-Insertion Sort:      2634           2172           1559           2121
-Quick Sort:            18             19             14             17
+Selection Sort:      3080           2578           2814           2824
+Insertion Sort:      4220           3829           2557           3535
+Quick Sort:            86             21             19             42
